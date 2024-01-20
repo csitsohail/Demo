@@ -12,7 +12,8 @@ public class practice {
         System.out.println("hello");
         System.out.println(123);
         System.out.println(321);
-        System.out.println(4321);
+        System.out.println("ok");
+
 
 
             }
