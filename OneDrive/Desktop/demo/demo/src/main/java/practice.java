@@ -9,6 +9,7 @@ public class practice {
 
                 System.out.println("Original String: " + originalString);
                 System.out.println("Reversed String: " + reversedString);
+        System.out.println("hello");
             }
         }
 
